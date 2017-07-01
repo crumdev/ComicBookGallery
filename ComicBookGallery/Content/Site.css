@@ -16,3 +16,9 @@ textarea {
     max-width: 280px;
 }
 
+.backbar {
+    background-color: #CCC;
+    padding: 8px;
+    text-align: center;
+}
+
